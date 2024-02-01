@@ -12,7 +12,7 @@ import PrivateRoute from "./components/PrivateRoute";
 import Login from "./pages/Auth/Login";
 import Register from "./pages/Auth/Register";
 
-// import AdminRoute from "./pages/Admin/AdminRoute";
+import AdminRoute from "./pages/Admin/AdminRoute";
 import Profile from "./pages/User/Profile";
 import UserList from "./pages/Admin/UserList";
 
